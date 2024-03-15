@@ -1,0 +1,15 @@
+[submodule "p1"]
+	path = p1
+	url = https://github.com/swavyast/p1
+[submodule "p2"]
+	path = p2
+	url = https://github.com/swavyast/p2
+[submodule "p3"]
+	path = p3
+	url = https://github.com/swavyast/p3
+[submodule "p4"]
+	path = p4
+	url = https://github.com/swavyast/p4
+[submodule "EMS_FrontEnd"]
+	path = EMS_FrontEnd
+	url = https://github.com/swavyast/EMS_FrontEnd
